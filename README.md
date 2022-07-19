@@ -3,7 +3,7 @@
 <a href="mailto:mail@syntaxbender.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h2>Turkey Reverse Geocoding GIS Project</h2>
-<a href="https://github.com/syntaxbender/hackerrank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=reverse-geocoding&theme=dark"></a>
+<a href="https://github.com/syntaxbender/reverse-geocoding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=reverse-geocoding&theme=dark"></a>
 
 <h2>Algorithms</h2>
 <a href="https://github.com/syntaxbender/hackerrank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=hackerrank&theme=dark"></a>
