@@ -1,1 +1,1 @@
-<h1 style="font-align:center">Hi, I'm Hasan. 👋</h1>
+<h1 align="center">Hi, I'm Hasan. 👋</h1>
