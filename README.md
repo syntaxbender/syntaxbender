@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=reverse-geocoding">
 
 <h2>Algorithms</h2>
-<a href="https://github.com/syntaxbender/hackerrank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=hackerrank"></a>
+<a href="https://github.com/syntaxbender/hackerrank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=hackerrank&show_icons=true"></a>
 <a href="https://github.com/syntaxbender/dijkstras-algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=dijkstras-algorithm"></a>
 <a href="https://github.com/syntaxbender/pagination-algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=pagination-algorithm"></a>
 <a href="https://github.com/syntaxbender/data-structures-and-algos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syntaxbender&repo=data-structures-and-algos"></a>
